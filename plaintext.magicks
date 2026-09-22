@@ -1,1 +1,21 @@
+; AIDEN JIANG  
+; Caps Lock
+; Foundations in CS
+; HW11 -- What is this Sorcery?
+; 2026-09-22
+; time spent 0.2hr
+
+SICP 1.1.1-1.1.3
+Questions:
+-How does "define" store names and values?
+
+Comments:
+
+
+Observations:
+-The environment keeps track of names and their values.
+-The interpreter follows a read, evaluate, and print loop.
+-The evaluation process is recursive.
+-The environment is important, because a variable such as x does not have a meaning unless the environment tells us what x refers to.
+
 
